@@ -1,0 +1,1 @@
+X=MsgBox("Skan Zapora Error",64+0,"Error Zapora Skan")
